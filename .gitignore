@@ -1,2 +1,15 @@
-*.class
-*.log
+#*.class
+#*.log
+
+#IDE
+.vscode
+
+
+# sbt related
+/target
+/project
+
+
+# metals related
+/.metals
+
