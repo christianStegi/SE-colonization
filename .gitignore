@@ -6,10 +6,11 @@
 
 
 # sbt related
-/target
-/project
+target
+project
 
 
 # metals related
+.bloop
 /.metals
 

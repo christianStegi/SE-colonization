@@ -1,0 +1,27 @@
+erste Schritte
+
+- Rundenbasierter Mechanismus
+
+- Unit-Basistyp
+
+- Laufen mit Unit
+
+- Spielfeld model
+
+- Spielfeld Tui
+
+
+------------------------------------
+Rundenbasierter Mechanismus:
+
+nach jeder Aktion kommt eine Kommandozeilen-Abfrage
+
+Optionen:
+    Unit bewegen 
+    Aktion mit Unit durchfuehren
+    Jahr beenden
+
+
+
+
+
