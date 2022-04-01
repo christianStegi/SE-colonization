@@ -1,0 +1,7 @@
+Fragen an Marko:
+
+.project Ordner auf jeder Ebene?
+
+Interfaces usw. erst zum Zeitpunkt der Vorlesung einbauen oder wie vorgehen?
+
+open source oder freeware-variante für scrum management?

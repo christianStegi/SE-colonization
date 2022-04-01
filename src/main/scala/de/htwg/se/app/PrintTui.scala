@@ -1,17 +1,17 @@
 package app
 
-object Hello {
+object Colonization : 
 
     def double(i: Int): Int = i * 2
 
-    def main(args: Array[String]): Unit = {
+    def main(args: Array[String]): Unit = 
 
         println("This is file PrintTui")
         println(printFirstGameField())
         //tryingStuff()        
-    }
+    
 
-    def printFirstGameField(): String = {
+    def printFirstGameField(): String = 
         println("print a prototype of a gameboard")
 
         val nrCells = 10
@@ -25,14 +25,8 @@ object Hello {
     
         buildMatrix(nrCells, nrCells, sizeOfACell)
 
-    }
-
-
-    def tryingStuff(): Int = {
+    
+    def tryingStuff(): Int =
         val a = List(1, 2, 3).map(i => double(i)) 
         println("a: " + a)
         0
-    }
-
-
-}
