@@ -1,0 +1,11 @@
+sbt
+compile 
+run
+console (to start REPL session)
+
+--------------------------------
+Tests ausführen:
+
+sbt jacoco
+sbt jacocoReport
+--------------------------------

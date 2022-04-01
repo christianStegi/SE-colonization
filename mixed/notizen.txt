@@ -35,3 +35,8 @@ Test einbauen
 - erste Tests anlegen
 - laufen lassen und ausprobieren.
 
+
+Then run
+sbt jacoco
+sbt jacocoReport
+
