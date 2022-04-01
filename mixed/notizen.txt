@@ -26,3 +26,12 @@ Optionen:
 MVC-Struktur einrichten
 Rundenmechanismus einführen
 mit Unit laufen können (und dies in der Tui sehen können)
+
+------------------------------------
+jetzt an der FH:
+
+Test einbauen
+- ins build.sbt file
+- erste Tests anlegen
+- laufen lassen und ausprobieren.
+

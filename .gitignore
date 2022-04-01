@@ -4,13 +4,34 @@
 #IDE
 .vscode
 
-
-# sbt related
-target
-project
-
-
 # metals related
 .bloop
-/.metals
+.metals
+project/metals.sbt
 
+# java
+*.class
+
+# scala3
+.tasty
+
+# sbt related
+project/project/
+project/target/
+target/
+
+# coursier
+null/
+
+# intellij idea
+*.log
+*.iml
+*.ipr
+*.iws
+.idea
+
+
+# other?
+.history
+.scala_dependencies
+.cache-main
