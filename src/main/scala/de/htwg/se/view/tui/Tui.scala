@@ -1,15 +1,7 @@
-package app
+//package de.htwg.se.view.tui
+package src.main.scala.de.htwg.se.view.tui
 
-object Colonization : 
-
-    def double(i: Int): Int = i * 2
-
-    def main(args: Array[String]): Unit = 
-
-        println("This is file PrintTui")
-        println(printFirstGameField())
-        //tryingStuff()        
-    
+object Tui:
 
     def printFirstGameField(): String = 
         println("print a prototype of a gameboard")
@@ -26,7 +18,6 @@ object Colonization :
         buildMatrix(nrCells, nrCells, sizeOfACell)
 
     
-    def tryingStuff(): Int =
-        val a = List(1, 2, 3).map(i => double(i)) 
-        println("a: " + a)
-        0
+    def repaint : String =
+        "repainting Tui..."
+
